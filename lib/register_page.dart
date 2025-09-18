@@ -24,7 +24,7 @@ class _RegisterPageState extends State<RegisterPage> {
         'fullName': fullName,
         'password': password,
       };
-
+    
       // Dialog sukses
       showDialog(
         context: context,

@@ -1,16 +1,27 @@
 # login_register_flutter
 
-A new Flutter project.
+LAPORAN PRAKTIKUM LOGIN_REGISTER_FLUTTER
 
-## Getting Started
+#Praktikum Percobaan
+Membuat folder Login_Register_Flutter lalu menambahkan bebrapa file dalam folder tersebut
+![Screenshot Login_Register_Flutter](dokumentasi/file.PNG)
 
-This project is a starting point for a Flutter application.
+Kode main dart
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%20main.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+Kode user_data
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%20user.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Kode Register_page
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%20register.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kode login_page
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%20login.PNG)
+
+Kode home_page
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%20home.PNG)
+
+Hasil Percobaan
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%201.PNG)
+
+![Screenshot Login_Register_Flutter](dokumentasi/percobaan%202.PNG)
